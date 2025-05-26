@@ -1,9 +1,5 @@
 # 🛰️ A User-Friendly Web Interface for Feature Extraction from Remote Sensing Satellite Images
 
-![Satellite Segmentation](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Remote_Sensing_Satellite.jpg/1200px-Remote_Sensing_Satellite.jpg)
-
-> 🚀 Powered by Deep Learning (U-Net), Spring Boot & JavaScript
-
 ---
 
 ## 🌍 Overview
