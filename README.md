@@ -56,7 +56,7 @@ This project enables pixel-wise land feature extraction from satellite imagery u
 
 | Input Satellite Image | Segmented Output |
 |------------------------|------------------|
-| ![Input](https://github.com/Abhinay8506/Feature-Extraction-using-UNet-Deep-learining/blob/070c047d44c8a0c06ff8316c1f4c901a022005c8/Semantic%20segmentation%20dataset/image/image_part_003t1.jpg) | ![Output](https://via.placeholder.com/250x150?text=Segmented+Mask) |
+| ![Input](https://github.com/Abhinay8506/Feature-Extraction-using-UNet-Deep-learining/blob/070c047d44c8a0c06ff8316c1f4c901a022005c8/Semantic%20segmentation%20dataset/image/image_part_003t1.jpg) | ![Output](https://github.com/Abhinay8506/Feature-Extraction-using-UNet-Deep-learining/blob/923791725a823bdfd6aeb7d9511c86b618cd1868/Semantic%20segmentation%20dataset/mask/image_part_003t1.png) |
 
 *Color Encodings:*  
 🔵 Water | 🟢 Vegetation | ⚫ Road | 🟥 Building | 🟤 Land | ⬛ Background
