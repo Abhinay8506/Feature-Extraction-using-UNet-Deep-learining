@@ -75,3 +75,49 @@ flowchart LR
     F --> G[Return Segmentation Mask]
     G --> H[Frontend Visualization]
 
+```
+
+
+## ⚙️ Setup & Run
+
+### 🔧 Prerequisites
+
+- Python 3.8+
+- Java 11+
+- Node.js (Frontend, optional for expansion)
+- Maven for Spring Boot
+- TensorFlow, OpenCV, Flask/FastAPI
+
+### 🛠️ Installation & Execution
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/yourusername/feature-extraction-remote-sensing.git
+   cd feature-extraction-remote-sensing
+
+2. **Train or Load U-Net Model**
+   ```bash
+   python train_unet.py
+
+3. **Start Python Inference Server**
+   ```bash
+   uvicorn app:app --reload
+
+4. **Run Spring Boot Backend**
+   ```bash
+   cd spring-backend
+   mvn spring-boot:run
+
+
+## 👥 Contributors
+
+| Name               | GitHub Username        |
+|--------------------|-----------------------|
+| Abhinay Goswami    | [Abhinay8506](https://github.com/Abhinay8506) |
+| Divakar Sharma     | [Divakar-07](https://github.com/Divakar-07)  |
+| Jay Kishor Thakur  | [jay-thakur-147](https://github.com/jay-thakur-147)  |
+
+
+
+
+
